@@ -1,4 +1,4 @@
-# credit-decision-model
+# Credit Decision Model
 
 #### Build a credit model to predict future unpayments.
 
